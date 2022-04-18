@@ -1,0 +1,204 @@
+body{
+    position: absolute;
+    width: 799px;
+    height: 1869px;
+    left: 0px;
+    top: 0px;
+    background: #FFF9E4;
+}
+.header{/* Rectangle 15 */
+    position: absolute;
+    width: 556px;
+    height: 40px;
+    left: 243px;
+    top: 0px;
+
+    background: rgba(180, 168, 140, 0.78);
+    border-radius: 0px 0px 0px 40px;
+}
+.h1 {
+    /* VkusnoFood */
+    position: absolute;
+    width: 277px;
+    height: 94px;
+    left: 8px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #1D1D1D;
+
+    text-shadow: 2px 3px 12px rgba(0, 0, 0, 0.3);
+}
+h2{
+    position: absolute;
+    width: 196px;
+    height: 16px;
+    left: 302px;
+    top: 1077px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+    text-shadow: 2px 3px 12px rgba(0, 0, 0, 0.35);
+}
+.pizza{
+    position: absolute;
+    width: 259px;
+    height: 215px;
+    left: 36px;
+    top: 160px;
+
+    background: url(png-transparent-caspian-pizza-worcester-take-out-pasta-kebab-pizza-food-baking-recipe.png);
+    filter: drop-shadow(3px 6px 12px rgba(0, 0, 0, 0.14));
+    border-radius: 230px;
+}
+.header p{
+    position: absolute;
+    width: 380px;
+    height: 32px;
+    left: 311px;
+    top: 10px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+
+    text-shadow: 2px 3px 12px rgba(0, 0, 0, 0.35);
+}
+.header btn{
+    position: absolute;
+    width: 83px;
+    height: 33px;
+    left: 716px;
+    top: 10px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #000000;
+
+    text-shadow: 2px 3px 12px rgba(0, 0, 0, 0.25);
+}
+.btn{
+    position: absolute;
+    width: 153px;
+    height: 49px;
+    left: 466px;
+    top: 319px;
+
+    background: #C4BA9F;
+    border-radius: 40px;
+}
+.btn_text{
+    position: absolute;
+    width: 141px;
+    height: 43px;
+    left: 487px;
+    top: 332px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+.coachblock{
+    position: absolute;
+    width: 141px;
+    height: 43px;
+    left: 487px;
+    top: 332px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+    
+}
+.coach{
+    position: absolute;
+    width: 360px;
+    height: 348px;
+    left: 221px;
+    top: 614px;
+
+    background: url(12ac2610763523.jpg);
+    border-radius: 2px;
+}
+.window{
+    /* Rectangle 35 */
+
+
+position: absolute;
+width: 259px;
+height: 295px;
+left: 98px;
+top: 1179px;
+
+background: #FFFFFF;
+box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+
+
+/* Rectangle 36 */
+
+
+position: absolute;
+width: 259px;
+height: 295px;
+left: 443px;
+top: 1179px;
+
+background: #FFFFFF;
+box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+.footer p{
+    position: absolute;
+    width: 281px;
+    height: 38px;
+    left: 259px;
+    top: 1835px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+
+    color: rgba(0, 0, 0, 0.6);
+
+}
+.footer{
+    position: absolute;
+    width: 799px;
+    height: 40px;
+    left: 0px;
+    top: 1829px;
+
+    background: rgba(180, 168, 140, 0.78);
+    border-radius: 0px;
+}
